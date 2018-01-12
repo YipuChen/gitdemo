@@ -4,6 +4,6 @@ public static void main()
 init();
 int a = 0;
 double b = 0.2;
-f(x, 22y, z);
+f(x, 22y, az);
 finalize();
 }
